@@ -1,4 +1,4 @@
-package com.theokanning.openai.completion;
+package cn.lkx.openai.completion;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;
